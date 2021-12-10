@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e63d2728-cb63-4882-afd9-a1b0aa929815": {
+      "ProjectGuid": "e63d2728-cb63-4882-afd9-a1b0aa929815",
+      "DisplayName": "Service_Ranger_UI_Test",
+      "ColorIndex": 0
+    },
+    "e4ae23bd-9ca9-4c46-b78a-5d3ea205ab78": {
+      "ProjectGuid": "e4ae23bd-9ca9-4c46-b78a-5d3ea205ab78",
+      "DisplayName": "Service_Ranger",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

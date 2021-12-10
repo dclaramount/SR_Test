@@ -1,0 +1,2 @@
+2021-12-10 12:34:26,409 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Application has Succesfully Started
+2021-12-10 12:34:26,500 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Starting Time: 52 sec

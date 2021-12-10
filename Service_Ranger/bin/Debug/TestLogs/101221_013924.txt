@@ -1,0 +1,7 @@
+2021-12-10 13:40:22,991 [13] INFO  Service_Ranger.Service_Ranger_Tests_UI - Application has Succesfully Started
+2021-12-10 13:40:23,111 [13] INFO  Service_Ranger.Service_Ranger_Tests_UI - Starting Time: 58 sec
+2021-12-10 13:40:23,916 [13] INFO  Service_Ranger.Service_Ranger_Tests_UI - Button  was Clicked
+2021-12-10 13:40:27,689 [13] INFO  Service_Ranger.Service_Ranger_Tests_UI - Button  was Clicked
+2021-12-10 13:40:47,697 [13] INFO  Service_Ranger.Service_Ranger_Tests_UI - Radio Button Simulation  was Clicked
+2021-12-10 13:40:54,068 [13] INFO  Service_Ranger.Service_Ranger_Tests_UI - Profile Name was set to  Test Diego
+2021-12-10 13:41:00,213 [13] INFO  Service_Ranger.Service_Ranger_Tests_UI - Product Selected

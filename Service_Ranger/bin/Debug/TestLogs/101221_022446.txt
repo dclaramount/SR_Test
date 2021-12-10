@@ -1,0 +1,12 @@
+2021-12-10 14:25:43,986 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Application has Succesfully Started
+2021-12-10 14:25:44,087 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Starting Time: 57 sec
+2021-12-10 14:25:44,817 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Button  was Clicked
+2021-12-10 14:25:48,750 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Button  was Clicked
+2021-12-10 14:25:54,468 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Radio Button Simulation  was Clicked
+2021-12-10 14:25:55,547 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Profile Name was set to  Test Diego
+2021-12-10 14:25:56,503 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Product Selected
+2021-12-10 14:25:57,424 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Adapter Selected
+2021-12-10 14:25:57,837 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Profile Saved
+2021-12-10 14:25:58,295 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Button  was Clicked
+2021-12-10 14:26:03,010 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Button Cancel was Clicked
+2021-12-10 14:26:04,062 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Button  was Clicked

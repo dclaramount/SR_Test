@@ -1,0 +1,3 @@
+2021-12-10 12:27:29,074 [13] INFO  Service_Ranger.Service_Ranger_Tests_UI - Application has Succesfully Started
+2021-12-10 12:27:29,148 [13] INFO  Service_Ranger.Service_Ranger_Tests_UI - Starting Time: 52 sec
+2021-12-10 12:28:06,184 [13] INFO  Service_Ranger.Service_Ranger_Tests_UI - Coordinates of Name Title Bar OpenQA.Selenium.Remote.RemoteCoordinates

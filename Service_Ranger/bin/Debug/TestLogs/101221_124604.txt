@@ -1,0 +1,4 @@
+2021-12-10 12:46:58,481 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Application has Succesfully Started
+2021-12-10 12:46:58,582 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Starting Time: 54 sec
+2021-12-10 12:46:59,272 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Number of Windows Before 1
+2021-12-10 12:47:17,328 [14] INFO  Service_Ranger.Service_Ranger_Tests_UI - Number of Windows After 1
